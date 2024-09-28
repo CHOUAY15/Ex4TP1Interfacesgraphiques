@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tp1</string>
+    <string name="nom">Nom et Prénom: </string>
+    <string name="ville">Ville : </string>
+    <string name="email">Email : </string>
+    <string name="adress">Adresse : </string>
+    <string name="phone">Phone : </string>
+    <array name="villes">
+        <item>Marrakech</item>
+        <item>Casa</item>
+        <item>El Jadida</item>
+    </array>
+</resources>
