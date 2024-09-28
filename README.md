@@ -59,9 +59,8 @@ The  Registration App is a mobile application designed to allow users to registe
 # Video Demonstration
 
 Click the link below to watch a demonstration video:
+[Download Video Demo](./videoDemo.mp4)
 
-
-https://github.com/CHOUAY15/Ex4TP1Interfacesgraphiques/videoDemo.mp4
 
 
 ## Contributors
