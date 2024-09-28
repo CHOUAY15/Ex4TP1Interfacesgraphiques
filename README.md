@@ -56,6 +56,12 @@ The  Registration App is a mobile application designed to allow users to registe
 3. Build the project and ensure all dependencies are resolved.
 4. Run the app on an emulator or physical device.
 
+# Video Demonstration
+
+Click the link below to watch a demonstration video:
+
+
+https://github.com/CHOUAY15/Ex4TP1Interfacesgraphiques/videoDemo.mp4
 
 
 ## Contributors
